@@ -1,0 +1,28 @@
+Instruments:
+
+1 Bass Arco 0 deg fixed 
+2 Bass Pizzicato 0 deg fixed 
+3 Bass Arco 90 deg fixed 
+4 Bass Pizzicato 90 deg fixed 
+5 Bass Arco 0 deg unfixed 
+6 Bass Pizzicato 0 deg unfixed 
+7 Clarinet 0 deg fixed
+8 Clarinet 90 deg fixed
+9 Clarinet 0 deg unfixed
+10 Flute 0 deg fixed
+11 Flute 90 deg fixed
+12 Flute 0 deg unfixed
+13 Guitar 0 deg fixed 
+14 Guitar 90 deg fixed 
+15 Guitar 0 deg unfixed 
+16 Sax 0 deg fixed
+17 Sax 90 deg fixed
+18 Sax 0 deg unfixed
+19 Trombone 0 deg fix part 1
+20 Trombone 0 deg fix part 1
+21 Trombone 90 deg fix 
+22 Trombone 0 deg unfix part 1
+23 Trombone 0 deg unfix part 2
+24 Violin 0 deg fixed
+25 Violin 90 deg fixed
+26 Violin 0 deg unfixed
